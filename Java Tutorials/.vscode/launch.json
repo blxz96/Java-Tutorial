@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "Java Tutorials_70c1d5fa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EnumsMain",
+            "request": "launch",
+            "mainClass": "EnumsMain",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VehicleMain",
+            "request": "launch",
+            "mainClass": "VehicleMain",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OuterInnerClassMain",
+            "request": "launch",
+            "mainClass": "OuterInnerClassMain",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ComparingObjects",
+            "request": "launch",
+            "mainClass": "ComparingObjects",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DogMain",
+            "request": "launch",
+            "mainClass": "DogMain",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Methods",
+            "request": "launch",
+            "mainClass": "Methods",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sorting",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Map",
+            "request": "launch",
+            "mainClass": "Map",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lists",
+            "request": "launch",
+            "mainClass": "Lists",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sets",
+            "request": "launch",
+            "mainClass": "Sets",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SetsAndLists",
+            "request": "launch",
+            "mainClass": "SetsAndLists",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WhileLoops",
+            "request": "launch",
+            "mainClass": "WhileLoops",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ForEachLoops",
+            "request": "launch",
+            "mainClass": "ForEachLoops",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - For_loops",
+            "request": "launch",
+            "mainClass": "For_loops",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NestedStatement",
+            "request": "launch",
+            "mainClass": "NestedStatement",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Conditions",
+            "request": "launch",
+            "mainClass": "Conditions",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Boolean",
+            "request": "launch",
+            "mainClass": "Boolean",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Conditions_and_Boolean",
+            "request": "launch",
+            "mainClass": "Conditions_and_Boolean",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Input_Scanner",
+            "request": "launch",
+            "mainClass": "Input_Scanner",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Basic_Operators<Java Tutorials_a4ad94a7>",
+            "request": "launch",
+            "mainClass": "Basic_Operators",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Hello<Java Tutorials_a4ad94a7>",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java Tutorials_a4ad94a7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Variables_Datatypes<Java Tutorials_a4ad94a7>",
+            "request": "launch",
+            "mainClass": "Variables_Datatypes",
+            "projectName": "Java Tutorials_a4ad94a7"
+        }
+    ]
+}
